@@ -1,2 +1,1 @@
-# wybiacx.github.io
-personal pages
+# WYBIACX Personal Pages
